@@ -1,8 +1,8 @@
----
 version: 1
+
 sitemaps:
   website:
-    origin: https://miloacademy.adobe.com
+    origin: https://dogs.adobe.com
     lastmod: YYYY-MM-DD
     languages:
       default:
